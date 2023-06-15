@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZatvorWebApi", "ZatvorWebApi\ZatvorWebApi.csproj", "{9BC319CB-B289-47EE-A9A4-BE282773D263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAccess", "DatabaseAccess\DatabaseAccess.csproj", "{407CF5CD-7514-4598-A0D9-336450C2B963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC319CB-B289-47EE-A9A4-BE282773D263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC319CB-B289-47EE-A9A4-BE282773D263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC319CB-B289-47EE-A9A4-BE282773D263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC319CB-B289-47EE-A9A4-BE282773D263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{407CF5CD-7514-4598-A0D9-336450C2B963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407CF5CD-7514-4598-A0D9-336450C2B963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407CF5CD-7514-4598-A0D9-336450C2B963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407CF5CD-7514-4598-A0D9-336450C2B963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {648F38C4-E734-4693-89AB-76E875A19749}
+	EndGlobalSection
+EndGlobal
